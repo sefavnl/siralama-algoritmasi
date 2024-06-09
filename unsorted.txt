@@ -1,0 +1,17 @@
+merhaba
+dünya
+bu
+bir
+örnek
+metin
+dosyasıdır
+her
+satırda
+bir
+kelime
+bulunmaktadır
+bu
+şekilde
+bir
+metin
+oluşturulmuştur
